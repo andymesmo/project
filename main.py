@@ -28,10 +28,10 @@ def main():
 
         # Verifica se o PDF contém imagens ou texto
         if is_image_pdf(file_path):
-            print(f"PDF {file_name} é baseado em imagens. Usando OCR para extrair texto.")
+            print(f"PDF {file_name} eh baseado em imagens. Usando OCR para extrair texto.")
             text = extract_text_from_image_pdf(file_path)
         else:
-            print(f"PDF {file_name} contém texto. Extraindo diretamente.")
+            print(f"PDF {file_name} contem texto. Extraindo diretamente.")
             text = process_pdf(file_path)
         
         if not text.strip():  # Verifica se o texto extraído está vazio
@@ -46,7 +46,7 @@ def main():
         move_file_to_folder(file_path, municipality, OUTPUT_DIR)
     
     # Renomeia e organiza os diretórios após todo o processamento
-    print("Renomeando e organizando diretórios...")
+    print("Renomeando e organizando diretorios...")
     rename_directories(INPUT_DIR)
 
 if __name__ == "__main__":
