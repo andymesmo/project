@@ -5,11 +5,13 @@ import unicodedata
 
 # Padrões para identificar o município
 MUNICIPALITY_PATTERNS = [
+    r"Prefeitura Municipal\s+([A-Za-zÀ-ÿ\s]+)",
     r"Prefeitura Municipal de\s+([A-Za-zÀ-ÿ\s]+)",  
+    r"Prefeitura Municipal da\s+([A-Za-zÀ-ÿ\s]+)",
     r"Prefeitura do Munic[íí]pio de\s+([A-Za-zÀ-ÿ\s]+)",  
     r"Prefeitura do\s+([A-Za-zÀ-ÿ\s]+)",  
     r"Prefeitura da Cidade do\s+([A-Za-zÀ-ÿ\s]+)",
-    r"Prefeitura Municipal da Estância Turística de\s+([A-Za-zÀ-ÿ\s]+)",
+    r"Estância Turística de\s+([A-Za-zÀ-ÿ\s]+)",
     r"Prefeitura de\s+([A-Za-zÀ-ÿ\s]+)", 
     r"Pref. Munic. de\s+([A-Za-zÀ-ÿ\s]+)", 
     r"Pref. Mun. de\s+([A-Za-zÀ-ÿ\s]+)",
