@@ -1,0 +1,877 @@
+2025-10-14 15:28:53,636 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137657251.pdf
+2025-10-14 15:28:53,684 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137657268.pdf
+2025-10-14 15:28:53,705 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137656254.pdf
+2025-10-14 15:28:53,737 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137657251.pdf com PyMuPDF (1800 caracteres).
+2025-10-14 15:28:53,747 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137656254.pdf com PyMuPDF (2349 caracteres).
+2025-10-14 15:28:53,878 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137657268.pdf com PyMuPDF (1799 caracteres).
+2025-10-14 15:28:53,915 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137657275.pdf
+2025-10-14 15:28:53,953 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137657275.pdf com PyMuPDF (1803 caracteres).
+2025-10-14 15:28:53,965 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137675880.pdf
+2025-10-14 15:28:53,983 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137675767.pdf
+2025-10-14 15:28:54,006 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137675767.pdf com PyMuPDF (2460 caracteres).
+2025-10-14 15:28:54,043 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137675880.pdf com PyMuPDF (2249 caracteres).
+2025-10-14 15:28:54,077 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137675972.pdf
+2025-10-14 15:28:54,134 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137675972.pdf com PyMuPDF (2189 caracteres).
+2025-10-14 15:28:54,224 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137675989.pdf
+2025-10-14 15:28:54,308 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137675989.pdf com PyMuPDF (2444 caracteres).
+2025-10-14 15:28:54,323 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137675866.pdf
+2025-10-14 15:28:54,386 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137658098.pdf
+2025-10-14 15:28:54,416 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137675866.pdf com PyMuPDF (2462 caracteres).
+2025-10-14 15:28:54,517 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137658098.pdf com PyMuPDF (1933 caracteres).
+2025-10-14 15:28:54,533 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137661777.pdf
+2025-10-14 15:28:54,555 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137678256.pdf
+2025-10-14 15:28:54,597 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137678263.pdf
+2025-10-14 15:28:54,624 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137661777.pdf com PyMuPDF (2241 caracteres).
+2025-10-14 15:28:54,628 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137678270.pdf
+2025-10-14 15:28:54,636 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137678256.pdf com PyMuPDF (2726 caracteres).
+2025-10-14 15:28:54,646 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137678287.pdf
+2025-10-14 15:28:54,649 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137678270.pdf com PyMuPDF (2220 caracteres).
+2025-10-14 15:28:54,768 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137678287.pdf com PyMuPDF (2218 caracteres).
+2025-10-14 15:28:54,788 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137678263.pdf com PyMuPDF (2476 caracteres).
+2025-10-14 15:28:54,789 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137678294.pdf
+2025-10-14 15:28:54,802 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137678294.pdf com PyMuPDF (2225 caracteres).
+2025-10-14 15:28:55,122 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137680099.pdf
+2025-10-14 15:28:55,146 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137680105.pdf
+2025-10-14 15:28:55,171 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137680105.pdf com PyMuPDF (2248 caracteres).
+2025-10-14 15:28:55,206 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137680099.pdf com PyMuPDF (2276 caracteres).
+2025-10-14 15:28:55,253 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137679796.pdf
+2025-10-14 15:28:55,274 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137679789.pdf
+2025-10-14 15:28:55,296 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137679796.pdf com PyMuPDF (1994 caracteres).
+2025-10-14 15:28:55,297 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137679789.pdf com PyMuPDF (1994 caracteres).
+2025-10-14 15:28:55,337 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137680112.pdf
+2025-10-14 15:28:55,376 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137680112.pdf com PyMuPDF (2167 caracteres).
+2025-10-14 15:28:55,610 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137680143.pdf
+2025-10-14 15:28:55,652 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137680143.pdf com PyMuPDF (2276 caracteres).
+2025-10-14 15:28:55,822 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137680129.pdf
+2025-10-14 15:28:55,838 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137680167.pdf
+2025-10-14 15:28:55,872 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137680167.pdf com PyMuPDF (2248 caracteres).
+2025-10-14 15:28:55,962 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137680129.pdf com PyMuPDF (2167 caracteres).
+2025-10-14 15:28:56,001 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137680150.pdf
+2025-10-14 15:28:56,015 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137680341.pdf
+2025-10-14 15:28:56,030 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137680341.pdf com PyMuPDF (1537 caracteres).
+2025-10-14 15:28:56,084 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137680150.pdf com PyMuPDF (2211 caracteres).
+2025-10-14 15:28:56,199 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137688682.pdf
+2025-10-14 15:28:56,221 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137688682.pdf com PyMuPDF (2617 caracteres).
+2025-10-14 15:28:57,859 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137677761.pdf
+2025-10-14 15:28:58,097 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137677754.pdf
+2025-10-14 15:28:59,850 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137655264.pdf
+2025-10-14 15:29:00,302 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137675859.pdf
+2025-10-14 15:29:01,297 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137680280.pdf
+2025-10-14 15:29:01,394 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137689955.pdf
+2025-10-14 15:29:01,907 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137689962.pdf
+2025-10-14 15:29:02,116 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137689979.pdf
+2025-10-14 15:29:04,376 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137677761.pdf
+2025-10-14 15:29:04,387 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137677761.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:04,387 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137677761.pdf. Tentando OCR...
+2025-10-14 15:29:04,392 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137675859.pdf
+2025-10-14 15:29:04,607 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137675859.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:04,610 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137675859.pdf. Tentando OCR...
+2025-10-14 15:29:04,794 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137677754.pdf
+2025-10-14 15:29:04,805 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137677754.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:04,805 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137677754.pdf. Tentando OCR...
+2025-10-14 15:29:05,464 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137655264.pdf
+2025-10-14 15:29:05,659 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137655264.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:05,749 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137655264.pdf. Tentando OCR...
+2025-10-14 15:29:05,993 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137675859.pdf
+2025-10-14 15:29:06,003 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137677761.pdf
+2025-10-14 15:29:06,448 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137689955.pdf
+2025-10-14 15:29:06,510 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137677754.pdf
+2025-10-14 15:29:06,679 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137689955.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:06,680 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137689955.pdf. Tentando OCR...
+2025-10-14 15:29:06,997 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137689962.pdf
+2025-10-14 15:29:07,176 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137689962.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:07,176 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137689962.pdf. Tentando OCR...
+2025-10-14 15:29:07,435 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137680280.pdf
+2025-10-14 15:29:07,534 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137655264.pdf
+2025-10-14 15:29:07,566 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137689979.pdf
+2025-10-14 15:29:07,679 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137680280.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:07,680 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137680280.pdf. Tentando OCR...
+2025-10-14 15:29:07,716 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137689979.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:07,717 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137689979.pdf. Tentando OCR...
+2025-10-14 15:29:08,771 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137689955.pdf
+2025-10-14 15:29:08,880 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137689962.pdf
+2025-10-14 15:29:09,746 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137689979.pdf
+2025-10-14 15:29:09,987 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137680280.pdf
+2025-10-14 15:29:21,164 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690005.pdf
+2025-10-14 15:29:21,222 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137689986.pdf
+2025-10-14 15:29:22,608 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690012.pdf
+2025-10-14 15:29:22,655 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690036.pdf
+2025-10-14 15:29:23,552 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690043.pdf
+2025-10-14 15:29:24,186 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137689993.pdf
+2025-10-14 15:29:24,458 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137689986.pdf
+2025-10-14 15:29:24,514 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690074.pdf
+2025-10-14 15:29:24,591 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137689986.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:24,594 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137689986.pdf. Tentando OCR...
+2025-10-14 15:29:26,345 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690005.pdf
+2025-10-14 15:29:26,408 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690067.pdf
+2025-10-14 15:29:26,524 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690005.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:26,526 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690005.pdf. Tentando OCR...
+2025-10-14 15:29:26,571 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137689986.pdf
+2025-10-14 15:29:27,576 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690012.pdf
+2025-10-14 15:29:27,730 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690012.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:27,733 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690012.pdf. Tentando OCR...
+2025-10-14 15:29:28,188 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690036.pdf
+2025-10-14 15:29:28,346 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690005.pdf
+2025-10-14 15:29:28,356 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690036.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:28,359 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690036.pdf. Tentando OCR...
+2025-10-14 15:29:29,167 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690012.pdf
+2025-10-14 15:29:29,691 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690036.pdf
+2025-10-14 15:29:30,204 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690043.pdf
+2025-10-14 15:29:30,360 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690043.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:30,361 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690043.pdf. Tentando OCR...
+2025-10-14 15:29:30,491 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137689993.pdf
+2025-10-14 15:29:30,748 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137689993.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:30,749 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137689993.pdf. Tentando OCR...
+2025-10-14 15:29:30,781 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690074.pdf
+2025-10-14 15:29:30,967 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690074.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:30,968 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690074.pdf. Tentando OCR...
+2025-10-14 15:29:31,755 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690067.pdf
+2025-10-14 15:29:31,971 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690043.pdf
+2025-10-14 15:29:32,172 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690067.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:32,173 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690067.pdf. Tentando OCR...
+2025-10-14 15:29:32,341 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137689993.pdf
+2025-10-14 15:29:32,681 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690074.pdf
+2025-10-14 15:29:33,778 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690067.pdf
+2025-10-14 15:29:39,740 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690098.pdf
+2025-10-14 15:29:40,993 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690104.pdf
+2025-10-14 15:29:42,950 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690128.pdf
+2025-10-14 15:29:43,802 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690098.pdf
+2025-10-14 15:29:43,945 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690098.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:43,946 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690098.pdf. Tentando OCR...
+2025-10-14 15:29:43,970 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690111.pdf
+2025-10-14 15:29:45,470 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690098.pdf
+2025-10-14 15:29:46,691 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690104.pdf
+2025-10-14 15:29:46,789 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690135.pdf
+2025-10-14 15:29:46,835 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690104.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:46,836 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690104.pdf. Tentando OCR...
+2025-10-14 15:29:48,184 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690142.pdf
+2025-10-14 15:29:48,678 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690128.pdf
+2025-10-14 15:29:49,058 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690128.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:49,058 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690128.pdf. Tentando OCR...
+2025-10-14 15:29:49,412 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690104.pdf
+2025-10-14 15:29:49,468 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690159.pdf
+2025-10-14 15:29:51,350 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690166.pdf
+2025-10-14 15:29:51,380 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690111.pdf
+2025-10-14 15:29:51,382 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690128.pdf
+2025-10-14 15:29:51,598 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690111.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:51,598 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690111.pdf. Tentando OCR...
+2025-10-14 15:29:53,689 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690111.pdf
+2025-10-14 15:29:53,861 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690142.pdf
+2025-10-14 15:29:53,975 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690142.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:53,976 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690142.pdf. Tentando OCR...
+2025-10-14 15:29:55,457 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690142.pdf
+2025-10-14 15:29:55,727 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690135.pdf
+2025-10-14 15:29:55,843 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690135.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:55,844 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690135.pdf. Tentando OCR...
+2025-10-14 15:29:55,974 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690159.pdf
+2025-10-14 15:29:56,052 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690159.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:56,053 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690159.pdf. Tentando OCR...
+2025-10-14 15:29:57,968 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690135.pdf
+2025-10-14 15:29:58,066 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690166.pdf
+2025-10-14 15:29:58,209 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690166.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:29:58,209 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690166.pdf. Tentando OCR...
+2025-10-14 15:29:58,500 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690159.pdf
+2025-10-14 15:30:00,461 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690173.pdf
+2025-10-14 15:30:00,722 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690166.pdf
+2025-10-14 15:30:03,154 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690180.pdf
+2025-10-14 15:30:07,712 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690173.pdf
+2025-10-14 15:30:07,848 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690173.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:07,858 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690173.pdf. Tentando OCR...
+2025-10-14 15:30:10,564 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690197.pdf
+2025-10-14 15:30:10,667 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690203.pdf
+2025-10-14 15:30:11,107 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690173.pdf
+2025-10-14 15:30:11,875 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690180.pdf
+2025-10-14 15:30:11,967 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690180.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:11,967 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690180.pdf. Tentando OCR...
+2025-10-14 15:30:12,982 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690210.pdf
+2025-10-14 15:30:14,017 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690180.pdf
+2025-10-14 15:30:14,352 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690203.pdf
+2025-10-14 15:30:14,426 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690203.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:14,431 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690203.pdf. Tentando OCR...
+2025-10-14 15:30:14,643 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690227.pdf
+2025-10-14 15:30:17,145 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690203.pdf
+2025-10-14 15:30:17,223 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690197.pdf
+2025-10-14 15:30:17,337 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690197.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:17,341 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690197.pdf. Tentando OCR...
+2025-10-14 15:30:18,159 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690234.pdf
+2025-10-14 15:30:18,274 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690241.pdf
+2025-10-14 15:30:19,667 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690197.pdf
+2025-10-14 15:30:20,120 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690210.pdf
+2025-10-14 15:30:20,186 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690210.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:20,186 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690210.pdf. Tentando OCR...
+2025-10-14 15:30:20,209 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690227.pdf
+2025-10-14 15:30:20,273 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690227.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:20,274 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690227.pdf. Tentando OCR...
+2025-10-14 15:30:23,852 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690234.pdf
+2025-10-14 15:30:24,214 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690234.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:24,215 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690234.pdf. Tentando OCR...
+2025-10-14 15:30:24,769 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690258.pdf
+2025-10-14 15:30:25,016 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690210.pdf
+2025-10-14 15:30:25,108 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690241.pdf
+2025-10-14 15:30:25,118 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690227.pdf
+2025-10-14 15:30:25,282 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690241.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:25,283 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690241.pdf. Tentando OCR...
+2025-10-14 15:30:25,842 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690234.pdf
+2025-10-14 15:30:26,762 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690241.pdf
+2025-10-14 15:30:29,019 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690258.pdf
+2025-10-14 15:30:29,135 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690258.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:29,136 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690258.pdf. Tentando OCR...
+2025-10-14 15:30:30,658 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690272.pdf
+2025-10-14 15:30:30,660 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690265.pdf
+2025-10-14 15:30:30,824 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690258.pdf
+2025-10-14 15:30:34,994 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690265.pdf
+2025-10-14 15:30:35,130 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690289.pdf
+2025-10-14 15:30:35,179 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690265.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:35,180 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690265.pdf. Tentando OCR...
+2025-10-14 15:30:35,963 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690272.pdf
+2025-10-14 15:30:36,142 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690272.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:36,143 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690272.pdf. Tentando OCR...
+2025-10-14 15:30:36,350 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690265.pdf
+2025-10-14 15:30:37,230 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690272.pdf
+2025-10-14 15:30:37,942 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690302.pdf
+2025-10-14 15:30:39,328 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690296.pdf
+2025-10-14 15:30:40,249 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690319.pdf
+2025-10-14 15:30:40,348 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690289.pdf
+2025-10-14 15:30:40,601 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690289.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:40,602 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690289.pdf. Tentando OCR...
+2025-10-14 15:30:41,609 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690326.pdf
+2025-10-14 15:30:42,351 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690289.pdf
+2025-10-14 15:30:43,805 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690302.pdf
+2025-10-14 15:30:43,996 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690302.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:43,997 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690302.pdf. Tentando OCR...
+2025-10-14 15:30:44,345 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690296.pdf
+2025-10-14 15:30:44,481 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690333.pdf
+2025-10-14 15:30:44,605 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690296.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:44,606 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690296.pdf. Tentando OCR...
+2025-10-14 15:30:45,782 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690302.pdf
+2025-10-14 15:30:45,965 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690319.pdf
+2025-10-14 15:30:46,260 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690319.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:46,261 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690319.pdf. Tentando OCR...
+2025-10-14 15:30:47,546 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690296.pdf
+2025-10-14 15:30:47,735 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690326.pdf
+2025-10-14 15:30:47,926 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690326.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:47,927 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690326.pdf. Tentando OCR...
+2025-10-14 15:30:48,202 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690319.pdf
+2025-10-14 15:30:50,327 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690326.pdf
+2025-10-14 15:30:51,129 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690333.pdf
+2025-10-14 15:30:51,275 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690333.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:51,275 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690333.pdf. Tentando OCR...
+2025-10-14 15:30:52,451 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690357.pdf
+2025-10-14 15:30:52,460 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690340.pdf
+2025-10-14 15:30:53,758 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690333.pdf
+2025-10-14 15:30:57,246 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690357.pdf
+2025-10-14 15:30:57,486 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690357.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:57,486 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690357.pdf. Tentando OCR...
+2025-10-14 15:30:58,423 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690340.pdf
+2025-10-14 15:30:58,688 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690340.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:30:58,691 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690340.pdf. Tentando OCR...
+2025-10-14 15:30:59,421 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690357.pdf
+2025-10-14 15:30:59,605 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690364.pdf
+2025-10-14 15:31:00,126 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690340.pdf
+2025-10-14 15:31:02,397 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690395.pdf
+2025-10-14 15:31:02,400 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690388.pdf
+2025-10-14 15:31:03,383 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690371.pdf
+2025-10-14 15:31:03,409 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690401.pdf
+2025-10-14 15:31:03,608 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690364.pdf
+2025-10-14 15:31:03,771 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690364.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:03,817 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690364.pdf. Tentando OCR...
+2025-10-14 15:31:05,740 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690364.pdf
+2025-10-14 15:31:06,738 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690418.pdf
+2025-10-14 15:31:07,044 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690388.pdf
+2025-10-14 15:31:07,201 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690388.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:07,202 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690388.pdf. Tentando OCR...
+2025-10-14 15:31:08,525 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690371.pdf
+2025-10-14 15:31:08,669 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690371.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:08,670 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690371.pdf. Tentando OCR...
+2025-10-14 15:31:09,423 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690388.pdf
+2025-10-14 15:31:09,525 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690395.pdf
+2025-10-14 15:31:09,790 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690395.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:09,791 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690395.pdf. Tentando OCR...
+2025-10-14 15:31:09,923 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690401.pdf
+2025-10-14 15:31:10,054 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690401.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:10,055 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690401.pdf. Tentando OCR...
+2025-10-14 15:31:10,181 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690371.pdf
+2025-10-14 15:31:11,297 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690395.pdf
+2025-10-14 15:31:11,764 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690418.pdf
+2025-10-14 15:31:11,877 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690401.pdf
+2025-10-14 15:31:11,933 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690418.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:11,934 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690418.pdf. Tentando OCR...
+2025-10-14 15:31:13,904 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690418.pdf
+2025-10-14 15:31:15,359 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690425.pdf
+2025-10-14 15:31:16,865 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690432.pdf
+2025-10-14 15:31:19,467 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690425.pdf
+2025-10-14 15:31:19,659 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690425.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:19,660 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690425.pdf. Tentando OCR...
+2025-10-14 15:31:21,283 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690425.pdf
+2025-10-14 15:31:21,910 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690449.pdf
+2025-10-14 15:31:22,207 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690432.pdf
+2025-10-14 15:31:22,343 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690432.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:22,345 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690432.pdf. Tentando OCR...
+2025-10-14 15:31:22,932 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690456.pdf
+2025-10-14 15:31:23,755 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690432.pdf
+2025-10-14 15:31:24,486 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137690463.pdf
+2025-10-14 15:31:26,531 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694140.pdf
+2025-10-14 15:31:26,972 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690449.pdf
+2025-10-14 15:31:27,168 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690449.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:27,168 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690449.pdf. Tentando OCR...
+2025-10-14 15:31:27,938 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690456.pdf
+2025-10-14 15:31:28,070 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690456.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:28,070 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690456.pdf. Tentando OCR...
+2025-10-14 15:31:28,569 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694164.pdf
+2025-10-14 15:31:28,622 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690449.pdf
+2025-10-14 15:31:29,513 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690456.pdf
+2025-10-14 15:31:30,137 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137690463.pdf
+2025-10-14 15:31:30,304 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137690463.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:30,305 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137690463.pdf. Tentando OCR...
+2025-10-14 15:31:30,811 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694157.pdf
+2025-10-14 15:31:31,592 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694164.pdf
+2025-10-14 15:31:31,683 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137690463.pdf
+2025-10-14 15:31:31,746 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694164.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:31,748 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694164.pdf. Tentando OCR...
+2025-10-14 15:31:32,975 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694171.pdf
+2025-10-14 15:31:33,090 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694140.pdf
+2025-10-14 15:31:33,191 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694164.pdf
+2025-10-14 15:31:33,311 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694140.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:33,312 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694140.pdf. Tentando OCR...
+2025-10-14 15:31:33,656 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694157.pdf
+2025-10-14 15:31:33,861 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694157.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:33,863 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694157.pdf. Tentando OCR...
+2025-10-14 15:31:34,609 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694140.pdf
+2025-10-14 15:31:35,651 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694157.pdf
+2025-10-14 15:31:36,613 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694171.pdf
+2025-10-14 15:31:36,684 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694188.pdf
+2025-10-14 15:31:36,804 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694171.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:36,806 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694171.pdf. Tentando OCR...
+2025-10-14 15:31:38,272 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694171.pdf
+2025-10-14 15:31:43,029 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694201.pdf
+2025-10-14 15:31:43,423 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694256.pdf
+2025-10-14 15:31:43,431 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694188.pdf
+2025-10-14 15:31:43,665 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694188.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:43,666 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694188.pdf. Tentando OCR...
+2025-10-14 15:31:43,969 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694218.pdf
+2025-10-14 15:31:45,581 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694188.pdf
+2025-10-14 15:31:46,610 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694263.pdf
+2025-10-14 15:31:47,587 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694270.pdf
+2025-10-14 15:31:48,162 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694218.pdf
+2025-10-14 15:31:48,295 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694218.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:48,296 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694218.pdf. Tentando OCR...
+2025-10-14 15:31:48,709 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694256.pdf
+2025-10-14 15:31:48,829 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694256.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:48,830 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694256.pdf. Tentando OCR...
+2025-10-14 15:31:49,162 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694201.pdf
+2025-10-14 15:31:49,293 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694201.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:49,294 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694201.pdf. Tentando OCR...
+2025-10-14 15:31:49,601 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694287.pdf
+2025-10-14 15:31:49,737 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694256.pdf
+2025-10-14 15:31:50,892 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694263.pdf
+2025-10-14 15:31:51,023 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694263.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:51,024 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694263.pdf. Tentando OCR...
+2025-10-14 15:31:51,101 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694294.pdf
+2025-10-14 15:31:51,357 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694270.pdf
+2025-10-14 15:31:51,464 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694270.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:51,465 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694270.pdf. Tentando OCR...
+2025-10-14 15:31:52,068 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694263.pdf
+2025-10-14 15:31:53,516 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694201.pdf
+2025-10-14 15:31:53,657 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694287.pdf
+2025-10-14 15:31:53,713 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694270.pdf
+2025-10-14 15:31:53,807 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694287.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:53,808 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694287.pdf. Tentando OCR...
+2025-10-14 15:31:53,944 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694218.pdf
+2025-10-14 15:31:55,281 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694287.pdf
+2025-10-14 15:31:55,509 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694294.pdf
+2025-10-14 15:31:55,648 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694294.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:31:55,653 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694294.pdf. Tentando OCR...
+2025-10-14 15:31:57,317 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694294.pdf
+2025-10-14 15:31:57,491 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137695505.pdf
+2025-10-14 15:31:57,512 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137695505.pdf com PyMuPDF (2081 caracteres).
+2025-10-14 15:31:58,811 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137694300.pdf
+2025-10-14 15:32:01,670 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137718723.pdf
+2025-10-14 15:32:01,735 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137718723.pdf com PyMuPDF (2204 caracteres).
+2025-10-14 15:32:01,975 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137718730.pdf
+2025-10-14 15:32:02,046 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137718730.pdf com PyMuPDF (2200 caracteres).
+2025-10-14 15:32:03,129 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137716019.pdf
+2025-10-14 15:32:03,145 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137694300.pdf
+2025-10-14 15:32:03,177 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137697455.pdf
+2025-10-14 15:32:03,406 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137694300.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:03,421 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137694300.pdf. Tentando OCR...
+2025-10-14 15:32:04,561 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722300.pdf
+2025-10-14 15:32:04,719 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722300.pdf com PyMuPDF (1797 caracteres).
+2025-10-14 15:32:04,806 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722317.pdf
+2025-10-14 15:32:04,874 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722317.pdf com PyMuPDF (2193 caracteres).
+2025-10-14 15:32:04,996 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137694300.pdf
+2025-10-14 15:32:05,228 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722324.pdf
+2025-10-14 15:32:05,282 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722331.pdf
+2025-10-14 15:32:05,298 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722331.pdf com PyMuPDF (2187 caracteres).
+2025-10-14 15:32:05,323 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722324.pdf com PyMuPDF (2241 caracteres).
+2025-10-14 15:32:05,352 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722348.pdf
+2025-10-14 15:32:05,383 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722348.pdf com PyMuPDF (1797 caracteres).
+2025-10-14 15:32:05,463 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722362.pdf
+2025-10-14 15:32:05,480 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722362.pdf com PyMuPDF (2148 caracteres).
+2025-10-14 15:32:05,495 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722355.pdf
+2025-10-14 15:32:05,528 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722355.pdf com PyMuPDF (2220 caracteres).
+2025-10-14 15:32:05,596 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722379.pdf
+2025-10-14 15:32:05,614 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722379.pdf com PyMuPDF (2171 caracteres).
+2025-10-14 15:32:06,037 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722959.pdf
+2025-10-14 15:32:06,068 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722966.pdf
+2025-10-14 15:32:06,138 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722959.pdf com PyMuPDF (2187 caracteres).
+2025-10-14 15:32:06,212 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722966.pdf com PyMuPDF (2732 caracteres).
+2025-10-14 15:32:06,240 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137697479.pdf
+2025-10-14 15:32:06,409 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722980.pdf
+2025-10-14 15:32:06,462 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722973.pdf
+2025-10-14 15:32:06,486 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722980.pdf com PyMuPDF (2347 caracteres).
+2025-10-14 15:32:06,532 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722973.pdf com PyMuPDF (2731 caracteres).
+2025-10-14 15:32:06,741 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137722997.pdf
+2025-10-14 15:32:06,768 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137722997.pdf com PyMuPDF (1784 caracteres).
+2025-10-14 15:32:06,819 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137697455.pdf
+2025-10-14 15:32:07,127 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723000.pdf
+2025-10-14 15:32:07,215 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137697455.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:07,231 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137697455.pdf. Tentando OCR...
+2025-10-14 15:32:07,233 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723017.pdf
+2025-10-14 15:32:07,289 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723017.pdf com PyMuPDF (2248 caracteres).
+2025-10-14 15:32:07,332 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723000.pdf com PyMuPDF (2186 caracteres).
+2025-10-14 15:32:07,564 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723031.pdf
+2025-10-14 15:32:07,713 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723031.pdf com PyMuPDF (1790 caracteres).
+2025-10-14 15:32:07,859 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723024.pdf
+2025-10-14 15:32:07,886 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723024.pdf com PyMuPDF (2240 caracteres).
+2025-10-14 15:32:08,049 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723048.pdf
+2025-10-14 15:32:08,150 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723048.pdf com PyMuPDF (2742 caracteres).
+2025-10-14 15:32:08,194 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137716019.pdf
+2025-10-14 15:32:08,199 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137716019.pdf com PyMuPDF (2 caracteres).
+2025-10-14 15:32:08,200 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137716019.pdf. Tentando OCR...
+2025-10-14 15:32:08,275 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723055.pdf
+2025-10-14 15:32:08,343 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723055.pdf com PyMuPDF (2249 caracteres).
+2025-10-14 15:32:08,478 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723062.pdf
+2025-10-14 15:32:08,598 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723062.pdf com PyMuPDF (2248 caracteres).
+2025-10-14 15:32:08,707 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723086.pdf
+2025-10-14 15:32:08,762 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723079.pdf
+2025-10-14 15:32:08,796 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723086.pdf com PyMuPDF (1797 caracteres).
+2025-10-14 15:32:08,911 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723079.pdf com PyMuPDF (2250 caracteres).
+2025-10-14 15:32:09,219 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723093.pdf
+2025-10-14 15:32:09,252 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137697455.pdf
+2025-10-14 15:32:09,253 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723109.pdf
+2025-10-14 15:32:09,305 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723109.pdf com PyMuPDF (2733 caracteres).
+2025-10-14 15:32:09,363 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723093.pdf com PyMuPDF (2874 caracteres).
+2025-10-14 15:32:09,533 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723154.pdf
+2025-10-14 15:32:09,553 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137721532.pdf
+2025-10-14 15:32:09,627 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723154.pdf com PyMuPDF (2363 caracteres).
+2025-10-14 15:32:09,665 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723123.pdf
+2025-10-14 15:32:09,757 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723123.pdf com PyMuPDF (2246 caracteres).
+2025-10-14 15:32:09,793 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723185.pdf
+2025-10-14 15:32:09,841 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723185.pdf com PyMuPDF (2321 caracteres).
+2025-10-14 15:32:10,209 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723208.pdf
+2025-10-14 15:32:10,254 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723215.pdf
+2025-10-14 15:32:10,339 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723208.pdf com PyMuPDF (2733 caracteres).
+2025-10-14 15:32:10,357 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723215.pdf com PyMuPDF (2247 caracteres).
+2025-10-14 15:32:10,420 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723222.pdf
+2025-10-14 15:32:10,554 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137716019.pdf
+2025-10-14 15:32:10,572 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723246.pdf
+2025-10-14 15:32:10,599 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723222.pdf com PyMuPDF (2742 caracteres).
+2025-10-14 15:32:10,610 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723246.pdf com PyMuPDF (2464 caracteres).
+2025-10-14 15:32:10,798 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723260.pdf
+2025-10-14 15:32:10,825 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723284.pdf
+2025-10-14 15:32:10,844 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723277.pdf
+2025-10-14 15:32:10,869 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723277.pdf com PyMuPDF (2506 caracteres).
+2025-10-14 15:32:10,914 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723284.pdf com PyMuPDF (2495 caracteres).
+2025-10-14 15:32:10,942 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723260.pdf com PyMuPDF (2193 caracteres).
+2025-10-14 15:32:11,101 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723901.pdf
+2025-10-14 15:32:11,151 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137697479.pdf
+2025-10-14 15:32:11,157 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723901.pdf com PyMuPDF (2117 caracteres).
+2025-10-14 15:32:11,162 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723888.pdf
+2025-10-14 15:32:11,247 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723888.pdf com PyMuPDF (2230 caracteres).
+2025-10-14 15:32:11,318 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137697479.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:11,319 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137697479.pdf. Tentando OCR...
+2025-10-14 15:32:11,351 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723932.pdf
+2025-10-14 15:32:11,387 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723291.pdf
+2025-10-14 15:32:11,424 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723932.pdf com PyMuPDF (1844 caracteres).
+2025-10-14 15:32:11,476 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723291.pdf com PyMuPDF (2730 caracteres).
+2025-10-14 15:32:11,557 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723925.pdf
+2025-10-14 15:32:11,626 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723925.pdf com PyMuPDF (2174 caracteres).
+2025-10-14 15:32:11,772 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723956.pdf
+2025-10-14 15:32:11,822 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723956.pdf com PyMuPDF (2117 caracteres).
+2025-10-14 15:32:12,012 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723987.pdf
+2025-10-14 15:32:12,048 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723987.pdf com PyMuPDF (2218 caracteres).
+2025-10-14 15:32:12,569 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137721532.pdf
+2025-10-14 15:32:12,595 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137723949.pdf
+2025-10-14 15:32:12,794 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137721532.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:12,824 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723963.pdf
+2025-10-14 15:32:12,800 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137721532.pdf. Tentando OCR...
+2025-10-14 15:32:12,852 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723963.pdf com PyMuPDF (2465 caracteres).
+2025-10-14 15:32:12,935 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137697479.pdf
+2025-10-14 15:32:12,997 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137724007.pdf
+2025-10-14 15:32:13,072 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137724007.pdf com PyMuPDF (2075 caracteres).
+2025-10-14 15:32:13,347 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137723994.pdf
+2025-10-14 15:32:14,061 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137724021.pdf
+2025-10-14 15:32:14,441 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137724021.pdf com PyMuPDF (2266 caracteres).
+2025-10-14 15:32:14,564 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137724014.pdf
+2025-10-14 15:32:14,674 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137721532.pdf
+2025-10-14 15:32:15,573 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137724038.pdf
+2025-10-14 15:32:17,320 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137724564.pdf
+2025-10-14 15:32:17,359 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137724564.pdf com PyMuPDF (2354 caracteres).
+2025-10-14 15:32:17,490 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137724571.pdf
+2025-10-14 15:32:17,517 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137724571.pdf com PyMuPDF (2931 caracteres).
+2025-10-14 15:32:17,588 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723949.pdf
+2025-10-14 15:32:17,591 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723949.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:17,592 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137723949.pdf. Tentando OCR...
+2025-10-14 15:32:17,651 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137724588.pdf
+2025-10-14 15:32:17,715 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137724588.pdf com PyMuPDF (2232 caracteres).
+2025-10-14 15:32:18,132 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137724595.pdf
+2025-10-14 15:32:18,210 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137724595.pdf com PyMuPDF (2863 caracteres).
+2025-10-14 15:32:18,476 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137724601.pdf
+2025-10-14 15:32:18,499 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137724601.pdf com PyMuPDF (2219 caracteres).
+2025-10-14 15:32:18,531 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137723994.pdf
+2025-10-14 15:32:18,533 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137723994.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:18,534 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137723994.pdf. Tentando OCR...
+2025-10-14 15:32:18,690 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137725028.pdf
+2025-10-14 15:32:18,746 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137725028.pdf com PyMuPDF (1841 caracteres).
+2025-10-14 15:32:19,112 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137725868.pdf
+2025-10-14 15:32:19,189 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137725868.pdf com PyMuPDF (2109 caracteres).
+2025-10-14 15:32:19,878 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137723949.pdf
+2025-10-14 15:32:20,486 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137723994.pdf
+2025-10-14 15:32:20,512 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137724014.pdf
+2025-10-14 15:32:20,515 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137724014.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:20,516 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137724014.pdf. Tentando OCR...
+2025-10-14 15:32:20,707 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137725882.pdf
+2025-10-14 15:32:21,397 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137724038.pdf
+2025-10-14 15:32:21,399 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137724038.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:21,400 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137724038.pdf. Tentando OCR...
+2025-10-14 15:32:21,998 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137724014.pdf
+2025-10-14 15:32:23,632 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137724038.pdf
+2025-10-14 15:32:24,025 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137725899.pdf
+2025-10-14 15:32:24,046 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137725899.pdf com PyMuPDF (2152 caracteres).
+2025-10-14 15:32:24,229 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137725875.pdf
+2025-10-14 15:32:25,779 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137725882.pdf
+2025-10-14 15:32:25,781 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137725882.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:25,782 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137725882.pdf. Tentando OCR...
+2025-10-14 15:32:27,105 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137725882.pdf
+2025-10-14 15:32:28,978 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137727282.pdf
+2025-10-14 15:32:29,066 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137727282.pdf com PyMuPDF (2023 caracteres).
+2025-10-14 15:32:29,306 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137725875.pdf
+2025-10-14 15:32:29,368 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137728937.pdf
+2025-10-14 15:32:29,440 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137728937.pdf com PyMuPDF (2591 caracteres).
+2025-10-14 15:32:29,478 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137725875.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:29,479 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137725875.pdf. Tentando OCR...
+2025-10-14 15:32:29,737 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137729088.pdf
+2025-10-14 15:32:29,797 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137729088.pdf com PyMuPDF (2506 caracteres).
+2025-10-14 15:32:30,323 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137731517.pdf
+2025-10-14 15:32:30,389 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137731517.pdf com PyMuPDF (3066 caracteres).
+2025-10-14 15:32:30,457 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137733092.pdf
+2025-10-14 15:32:30,464 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137731524.pdf
+2025-10-14 15:32:30,491 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137731524.pdf com PyMuPDF (2785 caracteres).
+2025-10-14 15:32:30,510 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137733092.pdf com PyMuPDF (1925 caracteres).
+2025-10-14 15:32:31,294 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137725875.pdf
+2025-10-14 15:32:32,213 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137726520.pdf
+2025-10-14 15:32:33,475 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137733634.pdf
+2025-10-14 15:32:33,545 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137733634.pdf com PyMuPDF (2618 caracteres).
+2025-10-14 15:32:33,635 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137726544.pdf
+2025-10-14 15:32:33,968 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137733320.pdf
+2025-10-14 15:32:34,133 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137754219.pdf
+2025-10-14 15:32:34,336 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137754653.pdf
+2025-10-14 15:32:34,383 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137754653.pdf com PyMuPDF (2836 caracteres).
+2025-10-14 15:32:34,564 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137754219.pdf com PyMuPDF (2884 caracteres).
+2025-10-14 15:32:35,105 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137754684.pdf
+2025-10-14 15:32:35,126 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137733351.pdf
+2025-10-14 15:32:35,202 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137754684.pdf com PyMuPDF (1936 caracteres).
+2025-10-14 15:32:35,297 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137755100.pdf
+2025-10-14 15:32:35,334 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137755100.pdf com PyMuPDF (2811 caracteres).
+2025-10-14 15:32:36,636 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137755117.pdf
+2025-10-14 15:32:36,774 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137733542.pdf
+2025-10-14 15:32:38,141 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137726544.pdf
+2025-10-14 15:32:38,416 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137726544.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:38,417 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137726544.pdf. Tentando OCR...
+2025-10-14 15:32:38,561 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137726520.pdf
+2025-10-14 15:32:38,747 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137726520.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:38,748 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137726520.pdf. Tentando OCR...
+2025-10-14 15:32:39,236 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137733320.pdf
+2025-10-14 15:32:39,421 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137733320.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:39,422 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137733320.pdf. Tentando OCR...
+2025-10-14 15:32:40,331 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137726544.pdf
+2025-10-14 15:32:40,519 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137726520.pdf
+2025-10-14 15:32:40,699 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137755087.pdf
+2025-10-14 15:32:41,071 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137755117.pdf
+2025-10-14 15:32:41,073 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137755117.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:41,074 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137755117.pdf. Tentando OCR...
+2025-10-14 15:32:41,136 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137733320.pdf
+2025-10-14 15:32:41,979 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137733351.pdf
+2025-10-14 15:32:42,117 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137733351.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:42,117 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137733351.pdf. Tentando OCR...
+2025-10-14 15:32:42,170 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137755148.pdf
+2025-10-14 15:32:42,226 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137733542.pdf
+2025-10-14 15:32:42,358 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137733542.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:42,358 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137733542.pdf. Tentando OCR...
+2025-10-14 15:32:42,583 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137755117.pdf
+2025-10-14 15:32:43,270 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137733351.pdf
+2025-10-14 15:32:43,855 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137733542.pdf
+2025-10-14 15:32:46,231 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137755087.pdf
+2025-10-14 15:32:46,580 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137755087.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:46,581 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137755087.pdf. Tentando OCR...
+2025-10-14 15:32:46,855 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137755148.pdf
+2025-10-14 15:32:46,859 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137755148.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:46,860 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137755148.pdf. Tentando OCR...
+2025-10-14 15:32:48,245 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137755148.pdf
+2025-10-14 15:32:48,607 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137755087.pdf
+2025-10-14 15:32:51,890 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137755162.pdf
+2025-10-14 15:32:52,388 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137755186.pdf
+2025-10-14 15:32:54,389 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137755247.pdf
+2025-10-14 15:32:55,345 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137755162.pdf
+2025-10-14 15:32:55,348 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137755162.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:55,348 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137755162.pdf. Tentando OCR...
+2025-10-14 15:32:56,723 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137755162.pdf
+2025-10-14 15:32:57,077 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137755186.pdf
+2025-10-14 15:32:57,082 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137755186.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:57,083 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137755186.pdf. Tentando OCR...
+2025-10-14 15:32:58,605 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137755247.pdf
+2025-10-14 15:32:58,608 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137755247.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:32:58,609 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137755247.pdf. Tentando OCR...
+2025-10-14 15:32:58,907 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137755186.pdf
+2025-10-14 15:32:59,921 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137755193.pdf
+2025-10-14 15:33:00,343 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137755247.pdf
+2025-10-14 15:33:02,147 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137756084.pdf
+2025-10-14 15:33:03,492 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137756091.pdf
+2025-10-14 15:33:04,388 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137756077.pdf
+2025-10-14 15:33:04,996 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137758033.pdf
+2025-10-14 15:33:05,086 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137758033.pdf com PyMuPDF (2181 caracteres).
+2025-10-14 15:33:05,329 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137758156.pdf
+2025-10-14 15:33:05,478 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137758156.pdf com PyMuPDF (1491 caracteres).
+2025-10-14 15:33:05,832 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137758170.pdf
+2025-10-14 15:33:05,866 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137758170.pdf com PyMuPDF (1934 caracteres).
+2025-10-14 15:33:06,181 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137755193.pdf
+2025-10-14 15:33:06,271 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137758194.pdf
+2025-10-14 15:33:06,337 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137758194.pdf com PyMuPDF (2187 caracteres).
+2025-10-14 15:33:06,522 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137755193.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:06,522 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137755193.pdf. Tentando OCR...
+2025-10-14 15:33:06,866 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137758200.pdf
+2025-10-14 15:33:06,882 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137758200.pdf com PyMuPDF (2036 caracteres).
+2025-10-14 15:33:07,074 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137758224.pdf
+2025-10-14 15:33:07,171 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137758224.pdf com PyMuPDF (1877 caracteres).
+2025-10-14 15:33:07,226 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137758255.pdf
+2025-10-14 15:33:07,313 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137758255.pdf com PyMuPDF (2243 caracteres).
+2025-10-14 15:33:07,460 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137758927.pdf
+2025-10-14 15:33:07,477 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137758927.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:07,610 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137758262.pdf
+2025-10-14 15:33:07,631 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137758262.pdf com PyMuPDF (1732 caracteres).
+2025-10-14 15:33:07,743 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759047.pdf
+2025-10-14 15:33:07,753 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759047.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:07,776 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759054.pdf
+2025-10-14 15:33:07,790 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759054.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:07,841 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759115.pdf
+2025-10-14 15:33:07,849 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759115.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:08,053 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759214.pdf
+2025-10-14 15:33:08,062 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759214.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:08,157 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759177.pdf
+2025-10-14 15:33:08,169 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759177.pdf com PyMuPDF (246 caracteres).
+2025-10-14 15:33:08,365 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759221.pdf
+2025-10-14 15:33:08,375 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759221.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:08,466 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759276.pdf
+2025-10-14 15:33:08,567 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759276.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:08,681 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759290.pdf
+2025-10-14 15:33:08,695 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759290.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:08,785 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759313.pdf
+2025-10-14 15:33:08,793 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759313.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:08,828 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759375.pdf
+2025-10-14 15:33:08,835 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759375.pdf com PyMuPDF (246 caracteres).
+2025-10-14 15:33:08,939 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759382.pdf
+2025-10-14 15:33:08,951 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759382.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:09,011 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759405.pdf
+2025-10-14 15:33:09,047 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137755193.pdf
+2025-10-14 15:33:09,088 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759405.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:09,194 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759443.pdf
+2025-10-14 15:33:09,203 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759443.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:09,283 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759436.pdf
+2025-10-14 15:33:09,311 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759467.pdf
+2025-10-14 15:33:09,322 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759467.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:09,351 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759436.pdf com PyMuPDF (1946 caracteres).
+2025-10-14 15:33:09,445 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759481.pdf
+2025-10-14 15:33:09,450 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137759474.pdf
+2025-10-14 15:33:09,500 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759481.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:09,511 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137759474.pdf com PyMuPDF (244 caracteres).
+2025-10-14 15:33:09,583 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137756091.pdf
+2025-10-14 15:33:09,868 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137756084.pdf
+2025-10-14 15:33:10,015 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137756091.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:10,016 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137756091.pdf. Tentando OCR...
+2025-10-14 15:33:10,049 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137771346.pdf
+2025-10-14 15:33:10,142 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137771346.pdf com PyMuPDF (2211 caracteres).
+2025-10-14 15:33:10,247 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137756084.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:10,249 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137756084.pdf. Tentando OCR...
+2025-10-14 15:33:10,458 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137771353.pdf
+2025-10-14 15:33:10,515 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137771353.pdf com PyMuPDF (2431 caracteres).
+2025-10-14 15:33:10,721 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137772855.pdf
+2025-10-14 15:33:10,736 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137772855.pdf com PyMuPDF (1284 caracteres).
+2025-10-14 15:33:10,888 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137772046.pdf
+2025-10-14 15:33:10,982 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137772046.pdf com PyMuPDF (2454 caracteres).
+2025-10-14 15:33:10,997 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137756107.pdf
+2025-10-14 15:33:11,042 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137772862.pdf
+2025-10-14 15:33:11,127 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137772862.pdf com PyMuPDF (1885 caracteres).
+2025-10-14 15:33:11,321 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137760838.pdf
+2025-10-14 15:33:11,830 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137773494.pdf
+2025-10-14 15:33:11,914 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137773494.pdf com PyMuPDF (1910 caracteres).
+2025-10-14 15:33:12,644 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137756077.pdf
+2025-10-14 15:33:12,816 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137756077.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:12,817 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137756077.pdf. Tentando OCR...
+2025-10-14 15:33:12,990 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137756084.pdf
+2025-10-14 15:33:13,042 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137756091.pdf
+2025-10-14 15:33:14,463 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137756077.pdf
+2025-10-14 15:33:14,700 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137760838.pdf
+2025-10-14 15:33:14,703 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137760838.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:14,704 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137760838.pdf. Tentando OCR...
+2025-10-14 15:33:16,054 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137760838.pdf
+2025-10-14 15:33:18,210 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137756107.pdf
+2025-10-14 15:33:18,412 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137773500.pdf
+2025-10-14 15:33:18,583 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137756107.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:18,584 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137756107.pdf. Tentando OCR...
+2025-10-14 15:33:18,758 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137773487.pdf
+2025-10-14 15:33:20,472 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137756107.pdf
+2025-10-14 15:33:24,536 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137773487.pdf
+2025-10-14 15:33:24,689 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137773487.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:24,713 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137773487.pdf. Tentando OCR...
+2025-10-14 15:33:25,592 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137773500.pdf
+2025-10-14 15:33:25,802 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137773500.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:25,803 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137773500.pdf. Tentando OCR...
+2025-10-14 15:33:26,202 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137773487.pdf
+2025-10-14 15:33:27,029 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137773500.pdf
+2025-10-14 15:33:27,660 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137792525.pdf
+2025-10-14 15:33:27,686 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137792525.pdf com PyMuPDF (2245 caracteres).
+2025-10-14 15:33:29,731 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137777966.pdf
+2025-10-14 15:33:31,048 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137792495.pdf
+2025-10-14 15:33:31,253 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137792501.pdf
+2025-10-14 15:33:31,639 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137792518.pdf
+2025-10-14 15:33:32,787 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137792549.pdf
+2025-10-14 15:33:32,820 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137792549.pdf com PyMuPDF (2241 caracteres).
+2025-10-14 15:33:33,090 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137792556.pdf
+2025-10-14 15:33:33,139 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137792556.pdf com PyMuPDF (2842 caracteres).
+2025-10-14 15:33:33,477 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137777966.pdf
+2025-10-14 15:33:33,664 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137777966.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:33,666 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137777966.pdf. Tentando OCR...
+2025-10-14 15:33:34,340 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137792532.pdf
+2025-10-14 15:33:34,947 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137777966.pdf
+2025-10-14 15:33:36,245 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137792518.pdf
+2025-10-14 15:33:36,395 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137792518.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:36,396 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137792518.pdf. Tentando OCR...
+2025-10-14 15:33:36,959 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137792501.pdf
+2025-10-14 15:33:36,979 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137792495.pdf
+2025-10-14 15:33:37,147 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137792495.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:37,148 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137792495.pdf. Tentando OCR...
+2025-10-14 15:33:37,155 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137792501.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:37,179 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137792501.pdf. Tentando OCR...
+2025-10-14 15:33:37,902 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137792518.pdf
+2025-10-14 15:33:38,637 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137792495.pdf
+2025-10-14 15:33:38,778 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137792501.pdf
+2025-10-14 15:33:40,384 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137792532.pdf
+2025-10-14 15:33:40,649 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137792532.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:40,649 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137792532.pdf. Tentando OCR...
+2025-10-14 15:33:42,235 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137792563.pdf
+2025-10-14 15:33:42,314 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137792532.pdf
+2025-10-14 15:33:43,020 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137793720.pdf
+2025-10-14 15:33:43,095 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137793720.pdf com PyMuPDF (2240 caracteres).
+2025-10-14 15:33:43,816 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137793737.pdf
+2025-10-14 15:33:43,864 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137793737.pdf com PyMuPDF (2247 caracteres).
+2025-10-14 15:33:44,342 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137792570.pdf
+2025-10-14 15:33:44,419 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137793744.pdf
+2025-10-14 15:33:44,455 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137793744.pdf com PyMuPDF (2232 caracteres).
+2025-10-14 15:33:44,958 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137793751.pdf
+2025-10-14 15:33:44,989 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137793751.pdf com PyMuPDF (2232 caracteres).
+2025-10-14 15:33:45,611 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137793768.pdf
+2025-10-14 15:33:45,710 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137793768.pdf com PyMuPDF (2241 caracteres).
+2025-10-14 15:33:46,072 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137792587.pdf
+2025-10-14 15:33:46,186 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137793775.pdf
+2025-10-14 15:33:46,215 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137793775.pdf com PyMuPDF (2232 caracteres).
+2025-10-14 15:33:46,428 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137793782.pdf
+2025-10-14 15:33:46,454 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137793782.pdf com PyMuPDF (2232 caracteres).
+2025-10-14 15:33:46,983 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137793799.pdf
+2025-10-14 15:33:47,025 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137793799.pdf com PyMuPDF (2232 caracteres).
+2025-10-14 15:33:47,049 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137793805.pdf
+2025-10-14 15:33:47,097 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137793805.pdf com PyMuPDF (2241 caracteres).
+2025-10-14 15:33:47,456 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137792563.pdf
+2025-10-14 15:33:47,564 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137793812.pdf
+2025-10-14 15:33:47,576 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137793829.pdf
+2025-10-14 15:33:47,640 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137793812.pdf com PyMuPDF (2247 caracteres).
+2025-10-14 15:33:47,652 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137793829.pdf com PyMuPDF (2232 caracteres).
+2025-10-14 15:33:47,726 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137794574.pdf
+2025-10-14 15:33:47,734 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137792563.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:47,736 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137792563.pdf. Tentando OCR...
+2025-10-14 15:33:47,765 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137794574.pdf com PyMuPDF (246 caracteres).
+2025-10-14 15:33:47,770 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137795267.pdf
+2025-10-14 15:33:47,779 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137795267.pdf com PyMuPDF (246 caracteres).
+2025-10-14 15:33:47,969 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137796486.pdf
+2025-10-14 15:33:47,997 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137796486.pdf com PyMuPDF (2856 caracteres).
+2025-10-14 15:33:48,508 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137797506.pdf
+2025-10-14 15:33:48,692 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137797506.pdf com PyMuPDF (1943 caracteres).
+2025-10-14 15:33:48,780 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137799562.pdf
+2025-10-14 15:33:48,834 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137799562.pdf com PyMuPDF (2090 caracteres).
+2025-10-14 15:33:48,959 [INFO] modules.ocr_handler - Processando OCR na pagina 1 do arquivo: 70000137795854.pdf
+2025-10-14 15:33:48,986 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137799906.pdf
+2025-10-14 15:33:49,055 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137799906.pdf com PyMuPDF (1843 caracteres).
+2025-10-14 15:33:49,210 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137799913.pdf
+2025-10-14 15:33:49,222 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137792563.pdf
+2025-10-14 15:33:49,252 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137799913.pdf com PyMuPDF (1860 caracteres).
+2025-10-14 15:33:49,475 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137799920.pdf
+2025-10-14 15:33:49,525 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137799920.pdf com PyMuPDF (1867 caracteres).
+2025-10-14 15:33:49,631 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137805195.pdf
+2025-10-14 15:33:49,643 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137805195.pdf com PyMuPDF (2092 caracteres).
+2025-10-14 15:33:49,970 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137792570.pdf
+2025-10-14 15:33:50,304 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137812377.pdf
+2025-10-14 15:33:50,342 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137792570.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:50,343 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137792570.pdf. Tentando OCR...
+2025-10-14 15:33:50,419 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137812377.pdf com PyMuPDF (1979 caracteres).
+2025-10-14 15:33:50,982 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137841131.pdf
+2025-10-14 15:33:51,047 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137841131.pdf com PyMuPDF (3339 caracteres).
+2025-10-14 15:33:51,194 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137842589.pdf
+2025-10-14 15:33:51,214 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137842589.pdf com PyMuPDF (2522 caracteres).
+2025-10-14 15:33:51,483 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137842596.pdf
+2025-10-14 15:33:51,533 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137842596.pdf com PyMuPDF (2364 caracteres).
+2025-10-14 15:33:51,707 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137842602.pdf
+2025-10-14 15:33:51,745 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137842602.pdf com PyMuPDF (2466 caracteres).
+2025-10-14 15:33:51,972 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137842619.pdf
+2025-10-14 15:33:52,026 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137842626.pdf
+2025-10-14 15:33:52,065 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137842619.pdf com PyMuPDF (2249 caracteres).
+2025-10-14 15:33:52,112 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137842626.pdf com PyMuPDF (2250 caracteres).
+2025-10-14 15:33:52,143 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137842633.pdf
+2025-10-14 15:33:52,159 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137842633.pdf com PyMuPDF (1786 caracteres).
+2025-10-14 15:33:52,208 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137842640.pdf
+2025-10-14 15:33:52,248 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137842640.pdf com PyMuPDF (2742 caracteres).
+2025-10-14 15:33:52,326 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137842657.pdf
+2025-10-14 15:33:52,388 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137842671.pdf
+2025-10-14 15:33:52,393 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137842664.pdf
+2025-10-14 15:33:52,400 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137842671.pdf com PyMuPDF (2460 caracteres).
+2025-10-14 15:33:52,437 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137842664.pdf com PyMuPDF (2505 caracteres).
+2025-10-14 15:33:52,456 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137842657.pdf com PyMuPDF (2733 caracteres).
+2025-10-14 15:33:52,567 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843029.pdf
+2025-10-14 15:33:52,605 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843029.pdf com PyMuPDF (2497 caracteres).
+2025-10-14 15:33:52,614 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843012.pdf
+2025-10-14 15:33:52,627 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137842688.pdf
+2025-10-14 15:33:52,644 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843012.pdf com PyMuPDF (2215 caracteres).
+2025-10-14 15:33:52,673 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137792587.pdf
+2025-10-14 15:33:52,691 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137842688.pdf com PyMuPDF (2733 caracteres).
+2025-10-14 15:33:52,818 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137792587.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:52,819 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137792587.pdf. Tentando OCR...
+2025-10-14 15:33:52,844 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843043.pdf
+2025-10-14 15:33:52,939 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843043.pdf com PyMuPDF (2731 caracteres).
+2025-10-14 15:33:52,947 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843036.pdf
+2025-10-14 15:33:53,000 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843050.pdf
+2025-10-14 15:33:53,016 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843067.pdf
+2025-10-14 15:33:53,024 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843036.pdf com PyMuPDF (2247 caracteres).
+2025-10-14 15:33:53,032 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843067.pdf com PyMuPDF (1790 caracteres).
+2025-10-14 15:33:53,093 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843050.pdf com PyMuPDF (2249 caracteres).
+2025-10-14 15:33:53,220 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843081.pdf
+2025-10-14 15:33:53,268 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843081.pdf com PyMuPDF (2496 caracteres).
+2025-10-14 15:33:53,318 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843074.pdf
+2025-10-14 15:33:53,399 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843074.pdf com PyMuPDF (2187 caracteres).
+2025-10-14 15:33:53,414 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843098.pdf
+2025-10-14 15:33:53,441 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843111.pdf
+2025-10-14 15:33:53,468 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843111.pdf com PyMuPDF (2240 caracteres).
+2025-10-14 15:33:53,535 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843098.pdf com PyMuPDF (2185 caracteres).
+2025-10-14 15:33:53,766 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843142.pdf
+2025-10-14 15:33:53,793 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843142.pdf com PyMuPDF (2246 caracteres).
+2025-10-14 15:33:53,817 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843135.pdf
+2025-10-14 15:33:53,848 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137843159.pdf
+2025-10-14 15:33:53,871 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137844422.pdf
+2025-10-14 15:33:53,880 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137844422.pdf com PyMuPDF (1925 caracteres).
+2025-10-14 15:33:53,883 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137795854.pdf
+2025-10-14 15:33:53,886 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137795854.pdf com PyMuPDF (0 caracteres).
+2025-10-14 15:33:53,886 [WARNING] modules.pdf_reader - Nenhum texto encontrado no PDF C:\ProjetosDev\project\data\input\70000137795854.pdf. Tentando OCR...
+2025-10-14 15:33:53,900 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843135.pdf com PyMuPDF (2247 caracteres).
+2025-10-14 15:33:53,922 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137843159.pdf com PyMuPDF (2877 caracteres).
+2025-10-14 15:33:54,045 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000137874498.pdf
+2025-10-14 15:33:54,046 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137792587.pdf
+2025-10-14 15:33:54,076 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000137874498.pdf com PyMuPDF (2191 caracteres).
+2025-10-14 15:33:55,353 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137795854.pdf
+2025-10-14 15:33:55,594 [INFO] modules.pdf_reader - Executando OCR na pagina 1 do arquivo C:\ProjetosDev\project\data\input\70000137792570.pdf

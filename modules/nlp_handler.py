@@ -6,7 +6,7 @@ import unicodedata
 # Padrões para identificar o município
 MUNICIPALITY_PATTERNS = [
     r"Prefeitura Municipal\s+([A-Za-zÀ-ÿ\s]+)",
-    r"Prefeitura Municipal de\s+([A-Za-zÀ-ÿ\s]+)",  
+    r"Prefeitura Municipal de\s*([A-Za-zÀ-ÿ\s]+)",  
     r"Prefeitura Municipal da\s+([A-Za-zÀ-ÿ\s]+)",
     r"Prefeitura do Munic[íí]pio de\s+([A-Za-zÀ-ÿ\s]+)",  
     r"Prefeitura do\s+([A-Za-zÀ-ÿ\s]+)",  
@@ -19,7 +19,7 @@ MUNICIPALITY_PATTERNS = [
     r"Governo do\s+([A-Za-z\s]+)",
     r"Secretaria Municipal de\s+([A-Za-zÀ-ÿ\s]+)",  
     r"Cidade de\s+([A-Za-zÀ-ÿ\s]+)",  
-    r"Nota Fiscal Eletrônica de Serviços -\s+([A-Za-zÀ-ÿ\s]+)",  
+    r"Nota Fiscal Eletrônica de Serviços -\s*([A-Za-zÀ-ÿ\s]+)",  
     r"-\s+([A-Za-zÀ-ÿ\s]+)"  
 ]
 
