@@ -1,0 +1,51 @@
+2025-11-24 09:53:02,446 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914704.pdf
+2025-11-24 09:53:02,479 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914704.pdf com PyMuPDF (2440 caracteres).
+2025-11-24 09:53:02,709 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914759.pdf
+2025-11-24 09:53:02,743 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914759.pdf com PyMuPDF (2251 caracteres).
+2025-11-24 09:53:02,763 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914711.pdf
+2025-11-24 09:53:02,789 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914711.pdf com PyMuPDF (2364 caracteres).
+2025-11-24 09:53:02,809 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914698.pdf
+2025-11-24 09:53:02,870 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914698.pdf com PyMuPDF (1786 caracteres).
+2025-11-24 09:53:02,876 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914810.pdf
+2025-11-24 09:53:02,909 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914780.pdf
+2025-11-24 09:53:02,914 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914810.pdf com PyMuPDF (2731 caracteres).
+2025-11-24 09:53:02,959 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914780.pdf com PyMuPDF (2462 caracteres).
+2025-11-24 09:53:02,970 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914803.pdf
+2025-11-24 09:53:03,014 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914834.pdf
+2025-11-24 09:53:03,024 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914841.pdf
+2025-11-24 09:53:03,072 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914834.pdf com PyMuPDF (2496 caracteres).
+2025-11-24 09:53:03,081 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914803.pdf com PyMuPDF (2181 caracteres).
+2025-11-24 09:53:03,106 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914872.pdf
+2025-11-24 09:53:03,144 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914872.pdf com PyMuPDF (2219 caracteres).
+2025-11-24 09:53:03,259 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914773.pdf
+2025-11-24 09:53:03,272 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914919.pdf
+2025-11-24 09:53:03,326 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914926.pdf
+2025-11-24 09:53:03,328 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914919.pdf com PyMuPDF (2250 caracteres).
+2025-11-24 09:53:03,367 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914773.pdf com PyMuPDF (2524 caracteres).
+2025-11-24 09:53:03,380 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914926.pdf com PyMuPDF (2241 caracteres).
+2025-11-24 09:53:03,488 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914957.pdf
+2025-11-24 09:53:03,510 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914902.pdf
+2025-11-24 09:53:03,517 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914957.pdf com PyMuPDF (2181 caracteres).
+2025-11-24 09:53:03,522 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914896.pdf
+2025-11-24 09:53:03,555 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914896.pdf com PyMuPDF (2241 caracteres).
+2025-11-24 09:53:03,584 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138915084.pdf
+2025-11-24 09:53:03,598 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138915084.pdf com PyMuPDF (2459 caracteres).
+2025-11-24 09:53:03,618 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914902.pdf com PyMuPDF (2188 caracteres).
+2025-11-24 09:53:03,671 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914988.pdf
+2025-11-24 09:53:03,675 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138915091.pdf
+2025-11-24 09:53:03,713 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138915091.pdf com PyMuPDF (2187 caracteres).
+2025-11-24 09:53:03,721 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914988.pdf com PyMuPDF (2733 caracteres).
+2025-11-24 09:53:03,786 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138915145.pdf
+2025-11-24 09:53:03,818 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138915152.pdf
+2025-11-24 09:53:03,823 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138915145.pdf com PyMuPDF (2461 caracteres).
+2025-11-24 09:53:03,853 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138915152.pdf com PyMuPDF (2742 caracteres).
+2025-11-24 09:53:03,888 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138914995.pdf
+2025-11-24 09:53:03,924 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138914995.pdf com PyMuPDF (2250 caracteres).
+2025-11-24 09:53:03,955 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138915671.pdf
+2025-11-24 09:53:03,967 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138915626.pdf
+2025-11-24 09:53:03,998 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138915671.pdf com PyMuPDF (2732 caracteres).
+2025-11-24 09:53:04,012 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138915626.pdf com PyMuPDF (2730 caracteres).
+2025-11-24 09:53:04,065 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138915640.pdf
+2025-11-24 09:53:04,114 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138915640.pdf com PyMuPDF (2733 caracteres).
+2025-11-24 09:53:04,148 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\70000138915633.pdf
+2025-11-24 09:53:04,258 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\70000138915633.pdf com PyMuPDF (2733 caracteres).
