@@ -1,0 +1,16 @@
+2026-06-08 18:05:54,183 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\0C9DDDF6CB2947FAA32AA2CAD2B7D90D.pdf
+2026-06-08 18:05:54,607 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\0C9DDDF6CB2947FAA32AA2CAD2B7D90D.pdf com PyMuPDF (562 caracteres).
+2026-06-08 18:05:54,907 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\_04F83927B58D4F42B863ED37E7722A11-PDF_INVOICE-8641d86a-6caa-42d8-af67-0431efaa6309.pdf
+2026-06-08 18:05:54,922 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\_04F83927B58D4F42B863ED37E7722A11-PDF_INVOICE-8641d86a-6caa-42d8-af67-0431efaa6309.pdf com PyMuPDF (562 caracteres).
+2026-06-08 18:05:55,235 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\_08E258CD76A24659A6047C7C0EFB53AC-PDF_INVOICE-9a5e14c4-5989-46a6-9216-b652b7643778.pdf
+2026-06-08 18:05:55,469 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\_08E258CD76A24659A6047C7C0EFB53AC-PDF_INVOICE-9a5e14c4-5989-46a6-9216-b652b7643778.pdf com PyMuPDF (3784 caracteres).
+2026-06-08 18:05:55,814 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\_3D8CD892B1DF4D97BD692CB13655E9C8-PDF_INVOICE-6dee474a-c92d-4f27-a077-4cff61fb87ba.pdf
+2026-06-08 18:05:55,906 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\_3D8CD892B1DF4D97BD692CB13655E9C8-PDF_INVOICE-6dee474a-c92d-4f27-a077-4cff61fb87ba.pdf com PyMuPDF (632 caracteres).
+2026-06-08 18:05:56,098 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\_509D024001C34C998DEFB20E6F5E5822-PDF_INVOICE-795d3122-1072-4fe6-bcee-1b13bd507213.pdf
+2026-06-08 18:05:56,110 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\_509D024001C34C998DEFB20E6F5E5822-PDF_INVOICE-795d3122-1072-4fe6-bcee-1b13bd507213.pdf com PyMuPDF (564 caracteres).
+2026-06-08 18:05:56,825 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\_63DC3C0B3E1C4AB3BD4B7F153A46FF61-PDF_INVOICE-84e3517d-156d-4ab0-9b61-8b57b3d0f1c5.pdf
+2026-06-08 18:05:57,014 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\_63DC3C0B3E1C4AB3BD4B7F153A46FF61-PDF_INVOICE-84e3517d-156d-4ab0-9b61-8b57b3d0f1c5.pdf com PyMuPDF (2073 caracteres).
+2026-06-08 18:05:57,300 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\_CB7DDC31FB8544B690B1FEC9D5C69896-PDF_INVOICE-372934b0-e9e2-4c1e-955a-1953bd2b46ff.pdf
+2026-06-08 18:05:57,349 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\_CB7DDC31FB8544B690B1FEC9D5C69896-PDF_INVOICE-372934b0-e9e2-4c1e-955a-1953bd2b46ff.pdf com PyMuPDF (556 caracteres).
+2026-06-08 18:05:57,957 [INFO] modules.pdf_reader - Iniciando processamento do arquivo C:\ProjetosDev\project\data\input\_E4AD3F41869B4F8B872473B80F88EBA1-PDF_INVOICE-c341c52a-06f3-415a-9706-ca90562c4036.pdf
+2026-06-08 18:05:58,016 [INFO] modules.pdf_reader - Texto extraido de C:\ProjetosDev\project\data\input\_E4AD3F41869B4F8B872473B80F88EBA1-PDF_INVOICE-c341c52a-06f3-415a-9706-ca90562c4036.pdf com PyMuPDF (2549 caracteres).
